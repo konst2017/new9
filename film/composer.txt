@@ -1,0 +1,44 @@
+
+
+
+SET HTTP_PROXY=http://username:password@192.168.7.181:3128
+
+
+
+
+composer global require "fxp/composer-asset-plugin:~1.1.1"
+
+
+composer global require "fxp/composer-asset-plugin:^1.2.0" надёжный плагин
+composer create-project yiisoft/yii2-app-basic ./ 2.0.11 -устновка фрейморка
+
+composer  require --prefer-dist yiisoft/yii2 
+
+composer  require --prefer-dist mihaildev/yii2-ckeditor
+composer require --prefer-dist mihaildev/yii2-ckeditor "*"
+composer require --prefer-dist mihaildev/yii2-elfinder "*"
+composer require --prefer-dist costa-rico/yii2-images "*"
+ aleks — repo 
+
+composer require yiimaker/yii2-newsletter  - обновление yiiсофта!!!
+
+cd domains\localhost\test3 -каталог
+composer clearcache - очистка кеша
+yii migrate/up --migrationPath=@vendor/costa-rico/yii2-images/migrations - миграция для загрузки изображении
+https://www.yiiframework.com/download - установка компостера и фрейморка
+cd domains\localhost
+composer global require "fxp/composer-asset-plugin:^1.2.0"
+
+cd domains\localhost
+git init
+git add film
+git commit -m "first commit"
+git remote add origin https://github.com/konst2017/new9.git
+git push -u origin master
+https://webhamster.ru/mytetrashare/index/mtb0/1464695713fo2p7rc9ov
+git config --global user.name "konst2017"
+git config --global user.email "spirin.costia@yandex.ru"
+
+
+
+
